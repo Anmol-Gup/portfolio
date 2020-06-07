@@ -1,0 +1,101 @@
+@media only screen and (max-width:379px)
+{
+img
+{
+	border-radius:30px;
+	width:52%;
+	height:40vh;
+}
+}
+
+@media only screen and (min-width:380px) and (max-width:449px)
+{
+img
+{
+	border-radius:30px;
+	width:45%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:450px) and (max-width:574px)
+{
+img
+{
+	border-radius:30px;
+	width:42%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:575px)and (max-width:729px)
+{
+img
+{
+	border-radius:30px;
+	width:34%;
+	height:44vh;
+}
+}
+@media only screen and (min-width:730px) and (max-width:849px)
+{
+img
+{
+	border-radius:30px;
+	width:28%;
+	height:42vh;
+}
+}
+@media only screen and (min-width:850px) and (max-width:924px)
+{
+img
+{
+	border-radius:30px;
+	width:25%;
+	height:43vh;
+}
+}
+@media only screen and (min-width:925px) and (max-width:1050px)
+{
+ img
+ {
+	border-radius:30px;
+	width:15%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:1051px)
+{
+img
+{
+	border-radius:30px;
+	width:20%;
+	height:45vh;
+}
+}
+
+#a
+{
+	background:#FFFACD;
+}
+p
+{
+	color:black;
+	font-family:cursive;
+	font-size:21px;
+	font-style:bold;
+	padding-left:15px;
+}
+ul
+{
+	list-style-type:square;
+	font-size:21px;
+	font-family:cursive;
+}
+span
+{
+	color:black;
+	font-family:cursive;
+	font-size:23px;
+	font-style:bold;
+	font-style:bold;
+	padding-left:15px;
+}

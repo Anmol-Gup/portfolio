@@ -1,0 +1,186 @@
+body
+{
+	background-color:yellow;
+}
+.fa:hover
+{
+	color:blue;
+	background:white;
+}
+#h:hover
+{
+	background:white;
+	padding-left:3px;
+}
+#e:hover
+{
+	background:white;
+	padding-left:3px;
+}
+#i:hover
+{
+	background:white;
+	padding-left:3px;
+}
+#c:hover
+{
+	background:white;
+	padding-left:3px;
+}
+#r:hover
+{
+	background:white;
+	padding-left:3px;
+}
+a
+{
+	color:black; font-style:bold; font-size:20px;
+}
+button:hover
+{ 
+	background:white;
+}
+@media only screen and (max-width:379px)
+{
+img
+{
+	border-radius:30px;
+	width:52%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:379px) and (max-width:449px)
+{
+img
+{
+	border-radius:30px;
+	width:45%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:450px) and (max-width:574px)
+{
+img
+{
+	border-radius:30px;
+	width:42%;
+	height:40vh;
+}
+}
+@media only screen and (min-width:575px)and (max-width:729px)
+{
+img
+{
+	border-radius:30px;
+	width:34%;
+	height:44vh;
+}
+}
+@media only screen and (min-width:730px) and (max-width:849px)
+{
+img
+{
+	border-radius:30px;
+	width:28%;
+	height:42vh;
+}
+}
+@media only screen and (min-width:850px) and (max-width:924px)
+{
+img
+{
+	border-radius:30px;
+	width:25%;
+	height:43vh;
+}
+}
+@media only screen and (min-width:925px) and (max-width:1050px)
+{
+ img
+ {
+	border-radius:30px;
+	width:20%;
+	height:45vh;
+}
+}
+@media only screen and (min-width:1051px)
+{
+img
+{
+	border-radius:30px;
+	width:18%;
+	height:45vh;
+}
+}
+h1
+{
+	font-family:cursive;
+}
+#intro 
+ {
+	color:black;
+	width:100%;
+	text-align:center;
+	font-size:17px;
+	font-style:bold;
+	margin-top:80px;
+	padding-left:10px;
+	padding-right:10px;
+	font-family:cursive;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+h1
+{
+	color:white;
+	background:black;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  width: 60px;
+  height:65px;
+  font-size:35px;
+  text-align:center;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+   width: 65px;
+   text-align:center;
+  height:65px;
+  font-size:33px;
+  padding-top:15px;
+  text-align:center;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  width: 65px;
+  font-size:35px;
+  padding-top:15px;
+  padding-left:17px;
+  height:65px;
+}
+.fa:hover
+{
+	text-align:center;
+}
+li
+{
+	display:block;
+}
+ul
+{
+	list-style-type:none;
+}
+footer
+{
+	background:black;
+}
